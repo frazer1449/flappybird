@@ -4,8 +4,7 @@ A simple clone of the classic Flappy Bird game built using [Phaser.js](https://p
 
 ## 🕹️ Demo
 
-[Click here to play the game!](#)  
-(*Replace this link with your deployed URL if hosted on GitHub Pages, Netlify, etc.*)
+[Click here to play the game!](https://frazer1449.github.io/flappybird/)  
 
 ## 🚀 Features
 
